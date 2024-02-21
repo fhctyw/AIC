@@ -1,5 +1,9 @@
 # Administration of Information Systems
 
+## Description
 This is an academic project for AIS.
 
-Name: Lisynchuk Arsen IT-31
+## Student Information
+
+- **Name:** Lisynchuk Arsen
+- **Group:** IT-31
