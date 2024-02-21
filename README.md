@@ -1,3 +1,3 @@
-# Academic project for Ansible
+# Academic project for Administrate of Information Systems
 
-made by Lisnychuk Arsen
+This is an academic project for AIS.
